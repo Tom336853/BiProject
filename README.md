@@ -3,16 +3,27 @@
 
 
 项目架构
+
 前端
+
 基于uniapp的框架进行开发
+
 后端
-.Java Spring Boot (万用后端模板)
-·MySQL数据库
-·MyBatis-Plus 及 MyBatis×自动生成
-·Redis + Redisson限流
-·RabbitMQ消息队列
-·第三方Al SDK (AI能力)
-·JDK线程池及异步化
+
+Java Spring Boot (万用后端模板)
+
+MySQL数据库
+
+MyBatis-Plus 及 MyBatis×自动生成
+
+Redis + Redisson限流
+
+RabbitMQ消息队列
+
+第三方Al SDK (AI能力)
+
+JDK线程池及异步化
+
 
 开发时间：2023.11-2024.2
 
